@@ -72,11 +72,20 @@
     <Reference Include="UnityEngine.TestRunner">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Cinemachine">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.multiplayer-hlapi.Editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.ProGrids">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.UIWidgets.Editor">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
@@ -99,47 +108,17 @@
     <Reference Include="Unity.UIWidgets">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.InteractiveTutorialsFramework">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.InternalAPIEngineBridge.024">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.multiplayer-hlapi.Editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.multiplayer-weaver.Editor">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll</HintPath>
@@ -147,11 +126,17 @@
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.InteractiveTutorials.Core.Scripts">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.InteractiveTutorials.Core.Scripts.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
@@ -159,11 +144,26 @@
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.InteractiveTutorialsFramework">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEditor.InteractiveTutorialsFramework.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEngineBridge.024">
+      <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/miffychen/Documents/GitHub/RosettaCart/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>

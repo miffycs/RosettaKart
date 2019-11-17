@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Right Answer
   - Wrong Answer
+  - Audio_1
+  - Audio_2
+  - Audio_3
+  - Audio_4
+  - Audio_5
+  - Audio_6
   layers:
   - Default
   - TransparentFX
