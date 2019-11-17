@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         countText.text = "Count: " + count.ToString ();
         if (count >= 6)
         {
-            winText.text = "You've LEARN A NEW LANGUAGE!";
+            winText.text = "YOU'VE LEARN A NEW LANGUAGE!";
         }
     }
 }
