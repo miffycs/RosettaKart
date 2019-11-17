@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{3E6821AB-E3B0-8D32-9CB0-370CE7FB481A}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayQuestion.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/metadata/0c/0c4137abd35b5f847b42025b9e25516c.info">
     <Files>
-      <File FileName="Assets/AudioManager/Scripts/AudioManager.cs" Line="69" Column="1" />
-      <File FileName="Assets/PlayQuestion.cs" Line="53" Column="10" />
+      <File FileName="Library/metadata/0c/0c4137abd35b5f847b42025b9e25516c.info" Line="1" Column="1" />
+      <File FileName="Library/metadata/7b/7b0b998cae1e9f54c997c311b34039bb.info" Line="1" Column="1" />
+      <File FileName="Library/metadata/38/38c256f7cfdc9494788a6a863582f97d.info" Line="13" Column="33" />
+      <File FileName="Temp/UnityTempFile-af9097a11dbae4e6fb6406584cd91652" Line="10" Column="1727" />
+      <File FileName="Library/metadata/41/417806a41faee234f907b3b2f90778a5.info" Line="1" Column="1" />
+      <File FileName="Temp/UnityTempFile-72552e962b1e74d29b798615cba9fe03" Line="10" Column="1870" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RosettaCart" expanded="True">
+          <Node name="RosettaCart" expanded="True" selected="True">
             <Node name="Assets" expanded="True">
               <Node name="AudioManager" expanded="True">
                 <Node name="Scripts" expanded="True" />
@@ -19,7 +23,6 @@
                   </Node>
                 </Node>
               </Node>
-              <Node name="PlayQuestion.cs" selected="True" />
             </Node>
           </Node>
         </State>
