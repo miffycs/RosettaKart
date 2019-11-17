@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Kart_v1.unity
+- path: Assets/Scenes/Kart_v1.unity
   isLoaded: 1
   isActive: 1
