@@ -30,40 +30,40 @@ public class PlayQuestion : MonoBehaviour
     {
         Vector3 playerPosition = gameObject.transform.position;
 
-        if (playerPosition.z > initAudioPlayZ && playerPosition.z < (blockCoordinates[0] + blockOffsetX))
+        if (playerPosition.z + 42.8 > initAudioPlayZ && playerPosition.z < (blockCoordinates[0] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("friedrice");
         }
-        else if (playerPosition.z > (blockCoordinates[0] + blockOffsetX) && playerPosition.z < (blockCoordinates[1] + blockOffsetX))
+        else if (playerPosition.z + 42.8 > (blockCoordinates[0] + blockOffsetX) && playerPosition.z < (blockCoordinates[1] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("dumpling");
         }
-        else if (playerPosition.z > (blockCoordinates[1] + blockOffsetX) && playerPosition.z < (blockCoordinates[2] + blockOffsetX))
+        else if (playerPosition.z + 42.8 > (blockCoordinates[1] + blockOffsetX) && playerPosition.z < (blockCoordinates[2] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("dimsum");
         }
 
-        else if (playerPosition.z > (blockCoordinates[2] + blockOffsetX) && playerPosition.z < (blockCoordinates[3] + blockOffsetX))
+        else if (playerPosition.z - 42.8 > (blockCoordinates[2] + blockOffsetX) && playerPosition.z < (blockCoordinates[3] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("chowmein");
         }
 
-        else if (playerPosition.z > (blockCoordinates[3] + blockOffsetX) && playerPosition.z < (blockCoordinates[4] + blockOffsetX))
+        else if (playerPosition.z - 42.8 > (blockCoordinates[3] + blockOffsetX) && playerPosition.z < (blockCoordinates[4] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("roastedduck");
         }
 
-        else if (playerPosition.z > (blockCoordinates[4] + blockOffsetX) && playerPosition.z < (blockCoordinates[5] + blockOffsetX))
+        else if (playerPosition.z - 42.8 > (blockCoordinates[4] + blockOffsetX) && playerPosition.z < (blockCoordinates[5] + blockOffsetX))
         {
             Debug.Log("PlayerPositionZ: " + playerPosition.z);
             FindObjectOfType<AudioManager>().Play("zhongzi");
         }
-        else if (playerPosition.z > (blockCoordinates[5] + blockOffsetX))
+        else if (playerPosition.z - 42.8 > (blockCoordinates[5] + blockOffsetX))
         {
         }
 
