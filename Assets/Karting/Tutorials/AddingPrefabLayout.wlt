@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Karting/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/lesliemeng/Documents/GitHub/RosettaCart
+  m_LastProjectPath: /Users/miffychen/Documents/GitHub/RosettaCart
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:

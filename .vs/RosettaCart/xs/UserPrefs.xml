@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3E6821AB-E3B0-8D32-9CB0-370CE7FB481A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayQuestion.cs">
+    <Files>
+      <File FileName="Assets/AudioManager/Scripts/AudioManager.cs" Line="69" Column="5" />
+      <File FileName="Assets/PlayQuestion.cs" Line="41" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RosettaCart" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AudioManager" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+              <Node name="Karting" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="KartSystems" expanded="True">
+                    <Node name="KartAudio" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="PlayQuestion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

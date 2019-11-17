@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebff3e0706554dc5acf610574ba38a7b, type: 3}
   m_Name: App Intent Profile
   m_EditorClassIdentifier: 
-  _sensors: 0100000003000000
+  _sensors: 03000000
   _gestures: c1000000c2000000
   _intervals: 02000000
   _dirty: 1
